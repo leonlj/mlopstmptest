@@ -1,5 +1,6 @@
 {
     "model": "https://github.com/leonlj/mlopstmptest/raw/ee0c69a41c21b391138235963fefeaa69e6c2734/sklearn_regression_model.pkl",
     "scoring": "https://raw.githubusercontent.com/leonlj/mlopstmptest/ee0c69a41c21b391138235963fefeaa69e6c2734/score.py",
-    "conda": "https://raw.githubusercontent.com/leonlj/mlopstmptest/ee0c69a41c21b391138235963fefeaa69e6c2734/conda.yml"
+    "conda": "https://raw.githubusercontent.com/leonlj/mlopstmptest/ee0c69a41c21b391138235963fefeaa69e6c2734/conda.yml",
+    "modelname": "sklearn_regression_model.pkl"
 }
